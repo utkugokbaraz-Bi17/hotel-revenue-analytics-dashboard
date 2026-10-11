@@ -57,21 +57,25 @@ Hotel Group
 └── Country
     └── City
         └── Hotel
+```
 
 ---
 
 ## Project Status
 
-🚧 In Development
-
-Current Progress:
-
 - [x] Repository Created
 - [x] Business Scenario Defined
-- [x] Initial README Created
-- [ ] Synthetic Dataset Creation
-- [ ] Data Modeling
-- [ ] DAX Measure Development
-- [ ] Dashboard Development
-- [ ] Documentation
-- [ ] GitHub Release
+- [x] Synthetic Dataset Creation
+- [x] Data Modeling (star schema)
+- [x] DAX Measure Development
+- [x] Dashboard Development (5 report pages)
+- [x] Documentation & screenshots
+- [ ] Next: AI-ready semantic model (descriptions, synonyms, DAX test set)
+
+---
+
+## Source Files
+
+The PBIP source is intentionally not published. This repository shares the
+business scenario, data model design, KPI definitions and report screenshots.
+Happy to walk through the model in a call.
