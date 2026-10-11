@@ -1,5 +1,3 @@
-🚧 This project is currently under development and will be updated progressively.
-
 # Hotel Revenue Analytics Dashboard
 
 A Power BI showcase project developed to demonstrate hotel revenue analytics, dimensional data modeling, DAX calculations, PBIP-based development, and AI-assisted report design.
